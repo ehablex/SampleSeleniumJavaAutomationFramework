@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-30T16:31:19 PDT" name="Suite" finished-at="2020-05-30T16:32:32 PDT" duration-ms="72729">
+    <groups>
+    </groups>
+    <test started-at="2020-05-30T16:31:19 PDT" name="Test" finished-at="2020-05-30T16:32:32 PDT" duration-ms="72729">
+      <class name="com.testautomation.TestRunner.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:31:19 PDT" name="setUpClass" finished-at="2020-05-30T16:31:20 PDT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:31:20 PDT" name="feature" data-provider="features" finished-at="2020-05-30T16:31:33 PDT" duration-ms="13264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add New employee without 10% deduction. (Automated)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Add Employee Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:31:33 PDT" name="feature" data-provider="features" finished-at="2020-05-30T16:31:44 PDT" duration-ms="11570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add New employee without 10% deduction. (Automated)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Add Employee Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:31:44 PDT" name="feature" data-provider="features" finished-at="2020-05-30T16:31:55 PDT" duration-ms="10824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add New employee without 10% deduction. (Automated)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Add Employee Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:31:55 PDT" name="feature" data-provider="features" finished-at="2020-05-30T16:32:09 PDT" duration-ms="13410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add New employee with 10% deductions. (Automated)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Add Employee Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:32:09 PDT" name="feature" data-provider="features" finished-at="2020-05-30T16:32:21 PDT" duration-ms="11817" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add New employee with 10% deductions. (Automated)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Add Employee Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:32:21 PDT" name="feature" data-provider="features" finished-at="2020-05-30T16:32:32 PDT" duration-ms="11640" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add New employee with 10% deductions. (Automated)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Add Employee Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@bef2d72]" started-at="2020-05-30T16:32:32 PDT" name="tearDownClass" finished-at="2020-05-30T16:32:32 PDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
